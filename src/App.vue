@@ -8,7 +8,7 @@
       :type1="type1"
       :type2="type2"
     />  
-    <h2>Choisis tes Pokemon :</h2>
+    <h2>Choisis tes Pokemon Mec:</h2>
     <PokeList
       :PokemonList="pokemonList"
       :IfSelected="false"
